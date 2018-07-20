@@ -1,0 +1,4 @@
+npm install mint-ui axios vuex vue-resource -S  
+
+npm install less -D  
+
